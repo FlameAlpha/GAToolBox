@@ -63,3 +63,13 @@ if __name__ == "__main__":
 
 参考论文如下：
 > S. -J. Wei, B. Zhang, X. -W. Tan, X. -G. Zhao and D. Ye, "A Real-time Human Activity Recognition Approach with Generalization Performance," 2020 39th Chinese Control Conference (CCC), 2020, pp. 6334-6339, doi: 10.23919/CCC50068.2020.9188860.
+
+---
+
+![在这里插入图片描述](https://img-blog.csdnimg.cn/20210524100538845.jpg)
+
+人就像一粒种子，要做一粒好种子 ———— 袁隆平
+
+我想背着每一位病人过河，我最大的幸福就是倒在手术台上。 ———— 吴孟超
+
+谨以此项目祭奠两位国士的离去，先生千古！
