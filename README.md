@@ -60,3 +60,6 @@ if __name__ == "__main__":
 - recorder_file: 历史计算数据存储文件名，默认为: "result.csv"
 - current_chromosome_file: 最新已计算适应度的染色体存储文件名，默认为: "current_chromosome.csv"
 - data_path: 全部数据的存储路径，默认为: "./result"
+
+参考论文如下：
+> S. -J. Wei, B. Zhang, X. -W. Tan, X. -G. Zhao and D. Ye, "A Real-time Human Activity Recognition Approach with Generalization Performance," 2020 39th Chinese Control Conference (CCC), 2020, pp. 6334-6339, doi: 10.23919/CCC50068.2020.9188860.
